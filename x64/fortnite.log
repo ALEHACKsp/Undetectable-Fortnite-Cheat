@@ -1,0 +1,214 @@
+﻿  Assembling shellcode.asm...
+  dllmain.cpp
+C:\Users\mab82\Downloads\undetectable internal\imgui source\utilitys.h(16,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\mab82\Downloads\undetectable internal\imgui source\dllmain.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(45,76): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(63,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(63,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(70,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(70,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(77,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(77,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(78,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(78,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(79,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(79,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(86,144): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(86,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(86,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(87,144): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(87,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(87,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(88,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(88,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(89,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(89,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(93,130): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(93,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(93,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(93,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(93,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(97,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(97,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(97,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(97,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(186,100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(186,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(186,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(186,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(186,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(189,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(190,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(192,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(193,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(194,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(195,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(196,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(197,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(198,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(199,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(202,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(203,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(205,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(206,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(207,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(208,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(209,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(210,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(211,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\settings.h(212,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\sdk.h(280,1): warning C4267: '=': conversion from 'size_t' to 'int32_t', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\sdk.h(711,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\sdk.h(711,85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\sdk.h(711,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\sdk.h(734,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\sdk.h(767,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(137,31): warning C4244: '=': conversion from 'Ret' to 'float', possible loss of data
+          with
+          [
+              Ret=int
+          ]
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(138,31): warning C4244: '=': conversion from 'Ret' to 'float', possible loss of data
+          with
+          [
+              Ret=int
+          ]
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(211,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(218,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(288,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(288,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,28): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,36): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,36): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,46): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,46): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,55): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,55): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,71): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,71): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,88): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,88): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,101): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,101): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,115): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,115): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,127): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,127): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,140): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,140): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,151): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,151): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,163): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,163): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,176): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,176): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,190): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,190): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,202): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,202): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,215): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,215): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,227): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,227): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,240): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,240): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,258): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,258): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,277): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(331,277): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(349,112): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(349,84): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(349,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(351,142): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(351,119): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(351,91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(351,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(353,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(353,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(355,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(355,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(424,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(424,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(424,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(424,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(425,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(425,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(425,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(425,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(426,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(426,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(426,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(426,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(427,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(427,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(427,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(427,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(428,89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(428,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(428,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(428,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(429,93): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(429,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(429,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(429,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(430,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(430,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(430,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(430,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(431,85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(431,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(431,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(431,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(432,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(432,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(432,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(432,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(433,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(433,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(433,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(433,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(434,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(434,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(434,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(434,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(435,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(435,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(435,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(435,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(436,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(436,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(436,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(436,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(437,85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(437,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(437,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(437,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(438,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(438,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(438,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(438,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(439,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(439,70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(439,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(439,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(440,91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(440,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(440,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(440,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(441,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(441,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(441,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(441,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(456,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\mab82\Downloads\undetectable internal\imgui source\menu.h(457,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\mab82\Downloads\undetectable internal\imgui source\sdk.h(663): warning C4715: 'SDK::Classes::Utils::CheckInScreen': not all control paths return a value
+  All 1472 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  fortnite.vcxproj -> C:\Users\mab82\Downloads\undetectable internal\imgui source\x64\Release\inject.dll
